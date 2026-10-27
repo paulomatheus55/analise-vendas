@@ -1,0 +1,1011 @@
+data,produto,regiao,quantidade,preco_unitario
+2025-02-27,Meia,Sul,3,14.9
+2025-04-25,Calça Jeans,Sudeste,1,139.9
+2025-10-07,Meia,Sul,5,14.9
+2025-01-17,Boné,Sul,1,39.9
+2025-04-30,Calça Jeans,Centro-Oeste,5,139.9
+2025-10-15,Camiseta,Sudeste,5,49.9
+2025-04-23,Boné,Norte,5,39.9
+2025-01-04,Tênis,Sudeste,4,249.9
+2025-05-23,Tênis,Sudeste,2,249.9
+2025-02-22,Tênis,Sul,4,249.9
+2025-07-03,Camiseta,Nordeste,5,49.9
+2025-01-23,Tênis,Norte,5,249.9
+2025-07-13,Camiseta,Sul,5,49.9
+2025-11-18,Tênis,Centro-Oeste,3,249.9
+2025-04-09,Jaqueta,Sul,1,299.9
+2025-04-27,Meia,Nordeste,1,14.9
+2025-02-21,Calça Jeans,Norte,3,139.9
+2025-11-22,Boné,Nordeste,2,39.9
+2025-07-01,Tênis,Sudeste,3,249.9
+2025-12-16,Meia,Sul,5,14.9
+2025-03-29,Meia,Centro-Oeste,2,14.9
+2025-08-25,Calça Jeans,Norte,3,139.9
+2025-12-19,Meia,Centro-Oeste,2,14.9
+2025-06-16,Meia,Sul,2,14.9
+2025-06-11,Camiseta,Norte,3,49.9
+2025-04-19,Camiseta,Centro-Oeste,3,49.9
+2025-12-02,Calça Jeans,Norte,4,139.9
+2025-08-23,Meia,Sudeste,3,14.9
+2025-05-07,Calça Jeans,Centro-Oeste,5,139.9
+2025-10-27,Tênis,Norte,5,249.9
+2025-07-05,Boné,Sudeste,2,39.9
+2025-09-10,Jaqueta,Sul,1,299.9
+2025-03-20,Camiseta,Sudeste,4,49.9
+2025-02-02,Jaqueta,Norte,4,299.9
+2025-08-28,Jaqueta,Centro-Oeste,3,299.9
+2025-01-06,Jaqueta,Sul,5,299.9
+2025-11-25,Tênis,Nordeste,1,249.9
+2025-08-11,Tênis,Sudeste,4,249.9
+2025-05-15,Camiseta,Centro-Oeste,2,49.9
+2025-02-24,Jaqueta,Nordeste,5,299.9
+2025-04-12,Jaqueta,Sudeste,3,299.9
+2025-10-04,Calça Jeans,Centro-Oeste,1,139.9
+2025-06-15,Jaqueta,Norte,1,299.9
+2025-07-05,Camiseta,Nordeste,2,49.9
+2025-05-04,Camiseta,Centro-Oeste,1,49.9
+2025-09-06,Camiseta,Sul,5,49.9
+2025-03-07,Calça Jeans,Norte,5,139.9
+2025-05-16,Calça Jeans,Centro-Oeste,5,139.9
+2025-04-19,Boné,Centro-Oeste,2,39.9
+2025-06-09,Meia,,3,14.9
+2025-09-22,Boné,Norte,1,39.9
+2025-04-26,Calça Jeans,Sul,3,139.9
+2025-10-29,Camiseta,Centro-Oeste,2,49.9
+2025-04-23,Jaqueta,Sul,1,299.9
+2025-11-20,Meia,Sul,2,14.9
+2025-01-17,Camiseta,Nordeste,1,49.9
+2025-05-02,Jaqueta,Nordeste,4,299.9
+2025-10-04,Calça Jeans,Sudeste,5,139.9
+2025-08-31,Jaqueta,Sudeste,4,299.9
+2025-04-08,Boné,Sul,1,39.9
+2025-08-09,Meia,Nordeste,4,14.9
+2025-08-28,Boné,Sul,1,39.9
+2025-07-26,Camiseta,Nordeste,1,49.9
+2025-04-09,Calça Jeans,Sudeste,5,139.9
+2025-03-13,Boné,Norte,2,39.9
+2025-08-25,Tênis,Sudeste,1,249.9
+2025-10-09,Boné,Sul,1,39.9
+2025-10-04,Meia,Sul,1,14.9
+2025-03-27,Calça Jeans,Norte,4,139.9
+2025-04-20,Boné,Norte,1,39.9
+2025-07-14,Calça Jeans,Sul,4,139.9
+2025-08-21,Tênis,Nordeste,4,249.9
+2025-10-12,Meia,Norte,2,14.9
+2025-06-01,Calça Jeans,Sudeste,1,139.9
+2025-10-05,Jaqueta,Sul,3,299.9
+2025-01-26,Camiseta,Centro-Oeste,4,49.9
+2025-09-29,Jaqueta,Sudeste,1,299.9
+2025-02-11,Jaqueta,Sudeste,1,299.9
+2025-02-04,Jaqueta,Sudeste,4,299.9
+2025-10-19,Camiseta,Sudeste,5,49.9
+2025-01-21,Jaqueta,Centro-Oeste,1,299.9
+2025-12-03,Boné,Centro-Oeste,5,39.9
+2025-06-11,Jaqueta,Nordeste,2,299.9
+2025-06-10,Meia,Sudeste,3,14.9
+2025-03-09,Boné,Nordeste,4,39.9
+2025-02-07,Tênis,Sul,4,249.9
+2025-10-16,Jaqueta,Sul,1,299.9
+2025-04-20,Jaqueta,Centro-Oeste,3,299.9
+2025-06-28,Calça Jeans,Sul,2,139.9
+2025-05-26,Tênis,Sudeste,4,249.9
+2025-12-27,Jaqueta,Nordeste,5,299.9
+2025-09-28,Meia,Sul,5,14.9
+2025-12-06,Tênis,Sul,2,249.9
+2025-03-01,Tênis,Sul,5,249.9
+2025-05-20,Calça Jeans,Nordeste,5,139.9
+2025-06-25,Calça Jeans,Sudeste,3,139.9
+2025-09-08,Jaqueta,Nordeste,1,299.9
+2025-11-21,Camiseta,Norte,3,49.9
+2025-01-02,Camiseta,Nordeste,2,49.9
+2025-05-15,Meia,Sudeste,4,14.9
+2025-12-28,Jaqueta,Norte,5,299.9
+2025-02-27,Camiseta,Sul,2,49.9
+2025-01-19,Jaqueta,Nordeste,5,299.9
+2025-03-17,Jaqueta,Norte,2,299.9
+2025-06-07,Camiseta,Nordeste,1,49.9
+2025-04-18,Tênis,Sudeste,1,249.9
+2025-10-14,Tênis,Norte,5,249.9
+2025-03-21,Meia,Sudeste,2,14.9
+2025-07-31,Calça Jeans,Sul,2,139.9
+2025-06-20,Meia,Norte,2,14.9
+2025-03-23,Tênis,Sul,4,249.9
+2025-08-29,Camiseta,Sudeste,2,49.9
+2025-06-29,Boné,Nordeste,2,39.9
+2025-01-13,Calça Jeans,Sudeste,4,139.9
+2025-05-23,Tênis,Sul,3,249.9
+2025-11-25,Tênis,Centro-Oeste,4,249.9
+2025-10-02,Meia,Nordeste,1,14.9
+2025-05-14,Camiseta,Sudeste,5,49.9
+2025-01-20,Tênis,Sul,5,249.9
+2025-06-26,Boné,Nordeste,4,39.9
+2025-09-19,Jaqueta,Sul,4,299.9
+2025-04-08,Jaqueta,Nordeste,1,299.9
+2025-08-12,Meia,Sul,5,14.9
+2025-12-18,Jaqueta,Sudeste,3,299.9
+2025-02-05,Boné,Nordeste,5,39.9
+2025-12-06,Tênis,Sul,3,249.9
+2025-06-08,Jaqueta,Norte,3,299.9
+2025-12-23,Boné,Nordeste,5,39.9
+2025-04-09,Calça Jeans,Norte,4,139.9
+2025-03-31,Meia,Centro-Oeste,5,14.9
+2025-07-27,Tênis,Centro-Oeste,1,249.9
+2025-05-27,Tênis,Sudeste,4,249.9
+2025-11-07,Jaqueta,Nordeste,4,299.9
+2025-08-15,Boné,Sudeste,5,39.9
+2025-03-28,Boné,Sul,3,39.9
+2025-12-06,Jaqueta,Centro-Oeste,3,299.9
+2025-05-01,Camiseta,Nordeste,2,49.9
+2025-03-17,Calça Jeans,Sul,1,139.9
+2025-09-01,Calça Jeans,Centro-Oeste,1,139.9
+2025-08-01,Boné,Centro-Oeste,2,39.9
+2025-12-23,Meia,Norte,4,14.9
+2025-05-05,Boné,Sudeste,1,39.9
+2025-08-06,Camiseta,,2,49.9
+2025-09-23,Meia,Norte,1,14.9
+2025-05-08,Jaqueta,Sul,4,299.9
+2025-08-26,Calça Jeans,Centro-Oeste,5,139.9
+2025-06-12,Jaqueta,Norte,5,299.9
+2025-09-16,Meia,Norte,5,14.9
+2025-03-23,Boné,Norte,4,39.9
+2025-05-07,Tênis,Nordeste,5,249.9
+2025-11-17,Boné,Sudeste,3,39.9
+2025-02-09,Boné,Nordeste,2,39.9
+2025-06-21,Tênis,Nordeste,5,249.9
+2025-03-12,Camiseta,Sudeste,2,49.9
+2025-12-22,Boné,Sudeste,2,39.9
+2025-08-01,Camiseta,Norte,3,49.9
+2025-08-27,Jaqueta,Norte,1,299.9
+2025-08-04,Calça Jeans,Norte,5,139.9
+2025-01-11,Meia,Centro-Oeste,4,14.9
+2025-01-04,Boné,Nordeste,3,39.9
+2025-08-03,Boné,Centro-Oeste,5,39.9
+2025-04-23,Jaqueta,Norte,2,299.9
+2025-08-12,Tênis,Norte,1,249.9
+2025-06-22,Boné,Norte,2,39.9
+2025-03-07,Boné,Centro-Oeste,5,39.9
+2025-07-21,Camiseta,Centro-Oeste,5,49.9
+2025-01-14,Meia,Sul,4,14.9
+2025-08-25,Calça Jeans,Sudeste,1,139.9
+2025-07-14,Tênis,Nordeste,2,249.9
+2025-06-17,Boné,Nordeste,4,39.9
+2025-08-04,Tênis,Nordeste,1,249.9
+2025-01-10,Boné,Centro-Oeste,1,39.9
+2025-04-25,Tênis,Sul,1,249.9
+2025-05-07,Camiseta,Sudeste,1,49.9
+2025-03-20,Jaqueta,Sudeste,2,299.9
+2025-12-09,Boné,Sul,5,39.9
+2025-08-27,Calça Jeans,Nordeste,3,139.9
+2025-11-07,Calça Jeans,Centro-Oeste,1,139.9
+2025-06-09,Calça Jeans,Sul,5,139.9
+2025-06-09,Camiseta,Centro-Oeste,4,49.9
+2025-04-12,Boné,Sul,5,39.9
+2025-11-18,Meia,Sudeste,1,14.9
+2025-06-04,Meia,Centro-Oeste,1,14.9
+2025-01-22,Jaqueta,Nordeste,5,299.9
+2025-12-05,Boné,Nordeste,1,39.9
+2025-11-28,Jaqueta,Nordeste,1,299.9
+2025-09-08,Boné,Sul,4,39.9
+2025-11-22,Tênis,Norte,2,249.9
+2025-04-01,Boné,Centro-Oeste,3,39.9
+2025-10-03,Jaqueta,Norte,4,299.9
+2025-10-31,Boné,Nordeste,3,39.9
+2025-02-14,Calça Jeans,Nordeste,4,139.9
+2025-08-26,Calça Jeans,Centro-Oeste,5,139.9
+2025-07-14,Meia,Nordeste,1,14.9
+2025-06-16,Boné,Sudeste,4,39.9
+2025-07-01,Calça Jeans,Nordeste,3,139.9
+2025-11-02,Tênis,Nordeste,5,249.9
+2025-09-22,Camiseta,Sudeste,1,49.9
+2025-07-28,Calça Jeans,Norte,5,139.9
+2025-12-20,Calça Jeans,Norte,4,139.9
+2025-01-09,Boné,Sul,3,39.9
+2025-07-27,Calça Jeans,Sudeste,3,139.9
+2025-10-25,Meia,Nordeste,4,14.9
+2025-09-29,Jaqueta,Nordeste,4,299.9
+2025-10-09,Meia,Nordeste,3,14.9
+2025-08-21,Meia,Nordeste,3,14.9
+2025-04-29,Tênis,Sul,2,249.9
+2025-03-03,Tênis,Centro-Oeste,2,249.9
+2025-04-21,Calça Jeans,Norte,3,139.9
+2025-10-29,Meia,Centro-Oeste,5,14.9
+2025-02-21,Tênis,Sudeste,3,249.9
+2025-07-04,Calça Jeans,Sudeste,3,139.9
+2025-12-29,Camiseta,Centro-Oeste,2,49.9
+2025-01-24,Tênis,Sul,5,249.9
+2025-12-24,Tênis,Sudeste,4,249.9
+2025-01-07,Camiseta,Centro-Oeste,3,49.9
+2025-09-03,Boné,Norte,3,39.9
+2025-01-27,Calça Jeans,Nordeste,4,139.9
+2025-02-03,Camiseta,Norte,4,49.9
+2025-10-23,Camiseta,Sul,2,49.9
+2025-10-16,Calça Jeans,Nordeste,1,139.9
+2025-03-02,Calça Jeans,Centro-Oeste,4,139.9
+2025-11-02,Jaqueta,Centro-Oeste,2,299.9
+2025-07-14,Jaqueta,Norte,4,299.9
+2025-10-29,Tênis,Norte,3,249.9
+2025-11-14,Jaqueta,Sul,5,299.9
+2025-02-20,Meia,Sudeste,2,14.9
+2025-12-05,Tênis,Sul,2,249.9
+2025-03-30,Calça Jeans,Centro-Oeste,1,139.9
+2025-01-02,Calça Jeans,Norte,4,139.9
+2025-11-01,Meia,Norte,3,14.9
+2025-04-29,Camiseta,Nordeste,3,49.9
+2025-08-21,Meia,Sul,2,14.9
+2025-11-17,Tênis,Centro-Oeste,2,249.9
+2025-02-28,Boné,Centro-Oeste,2,39.9
+2025-03-18,Meia,Nordeste,2,14.9
+2025-01-31,Camiseta,Sudeste,3,49.9
+2025-10-19,Jaqueta,Nordeste,4,299.9
+2025-08-28,Camiseta,Nordeste,4,49.9
+2025-09-14,Tênis,Centro-Oeste,4,249.9
+2025-02-11,Boné,Centro-Oeste,1,39.9
+2025-06-15,Boné,Centro-Oeste,3,39.9
+2025-02-16,Camiseta,,5,49.9
+2025-01-11,Jaqueta,Nordeste,5,299.9
+2025-03-31,Camiseta,Norte,5,49.9
+2025-08-15,Meia,Nordeste,2,14.9
+2025-08-12,Jaqueta,Norte,1,299.9
+2025-06-28,Boné,Norte,3,39.9
+2025-12-10,Tênis,Sul,2,249.9
+2025-07-30,Tênis,Norte,3,249.9
+2025-07-25,Meia,Centro-Oeste,1,14.9
+2025-02-15,Boné,Nordeste,3,39.9
+2025-03-01,Tênis,Norte,5,249.9
+2025-12-03,Camiseta,Centro-Oeste,4,49.9
+2025-01-28,Boné,Sudeste,5,39.9
+2025-11-15,Tênis,Norte,4,249.9
+2025-04-15,Camiseta,Nordeste,5,49.9
+2025-05-28,Calça Jeans,Norte,4,139.9
+2025-01-15,Camiseta,Centro-Oeste,2,49.9
+2025-03-23,Meia,Nordeste,5,14.9
+2025-10-10,Camiseta,Norte,1,49.9
+2025-02-28,Calça Jeans,Norte,1,139.9
+2025-03-20,Meia,,3,14.9
+2025-12-28,Jaqueta,Nordeste,4,299.9
+2025-08-30,Boné,Sudeste,4,39.9
+2025-03-16,Jaqueta,Norte,2,299.9
+2025-09-18,Jaqueta,Sudeste,1,299.9
+2025-08-01,Tênis,Nordeste,5,249.9
+2025-01-02,Tênis,Nordeste,3,249.9
+2025-10-24,Jaqueta,Norte,2,299.9
+2025-10-03,Boné,Norte,3,39.9
+2025-10-10,Tênis,Centro-Oeste,4,249.9
+2025-06-14,Boné,Sudeste,2,39.9
+2025-07-16,Jaqueta,Sudeste,4,299.9
+2025-06-12,Camiseta,Norte,4,49.9
+2025-12-06,Boné,Sudeste,4,39.9
+2025-03-06,Camiseta,Centro-Oeste,5,49.9
+2025-02-21,Tênis,Norte,1,249.9
+2025-08-22,Jaqueta,Sul,2,299.9
+2025-12-02,Boné,Sudeste,1,39.9
+2025-05-16,Boné,Nordeste,5,39.9
+2025-07-23,Meia,Sul,3,14.9
+2025-10-01,Meia,Norte,3,14.9
+2025-09-07,Meia,Centro-Oeste,1,14.9
+2025-02-05,Jaqueta,Sudeste,3,299.9
+2025-02-16,Calça Jeans,Norte,1,139.9
+2025-12-27,Meia,Sul,4,14.9
+2025-12-22,Calça Jeans,Nordeste,1,139.9
+2025-06-16,Camiseta,Sul,3,49.9
+2025-07-11,Tênis,Norte,2,249.9
+2025-09-29,Calça Jeans,Norte,5,139.9
+2025-04-03,Meia,Sudeste,2,14.9
+2025-11-09,Camiseta,Norte,5,49.9
+2025-05-04,Meia,Norte,5,14.9
+2025-04-29,Calça Jeans,Norte,3,139.9
+2025-05-11,Boné,Sul,4,39.9
+2025-12-13,Tênis,Centro-Oeste,2,249.9
+2025-08-15,Camiseta,Nordeste,5,49.9
+2025-11-24,Tênis,Norte,3,249.9
+2025-06-04,Boné,Sudeste,4,39.9
+2025-02-24,Boné,Sudeste,4,39.9
+2025-07-03,Jaqueta,Centro-Oeste,3,299.9
+2025-06-01,Meia,Sul,4,14.9
+2025-01-05,Tênis,Centro-Oeste,1,249.9
+2025-09-12,Jaqueta,Nordeste,2,299.9
+2025-06-30,Jaqueta,Sudeste,2,299.9
+2025-05-09,Jaqueta,Sudeste,1,299.9
+2025-11-27,Meia,Sul,3,14.9
+2025-01-18,Boné,Centro-Oeste,3,39.9
+2025-03-09,Meia,Sul,3,14.9
+2025-08-01,Tênis,Sudeste,2,249.9
+2025-10-04,Calça Jeans,Nordeste,5,139.9
+2025-05-20,Jaqueta,Sudeste,3,299.9
+2025-06-01,Boné,Nordeste,1,39.9
+2025-02-08,Boné,Sudeste,2,39.9
+2025-12-12,Meia,Norte,5,14.9
+2025-02-16,Tênis,Norte,1,249.9
+2025-10-02,Tênis,Sul,4,249.9
+2025-12-11,Tênis,,5,249.9
+2025-11-23,Boné,Nordeste,1,39.9
+2025-04-30,Meia,Norte,1,14.9
+2025-10-15,Jaqueta,Nordeste,5,299.9
+2025-11-28,Calça Jeans,Sul,4,139.9
+2025-06-04,Meia,Norte,1,14.9
+2025-01-24,Calça Jeans,Sul,3,139.9
+2025-03-01,Boné,Sul,2,39.9
+2025-03-11,Jaqueta,Norte,4,299.9
+2025-12-10,Tênis,Centro-Oeste,4,249.9
+2025-03-21,Jaqueta,Norte,1,299.9
+2025-11-12,Boné,Norte,3,39.9
+2025-12-20,Camiseta,Nordeste,2,49.9
+2025-08-16,Boné,Sudeste,3,39.9
+2025-12-18,Camiseta,Nordeste,5,49.9
+2025-07-03,Meia,Sul,4,14.9
+2025-04-08,Tênis,Sul,4,249.9
+2025-12-06,Camiseta,Sudeste,5,49.9
+2025-01-26,Camiseta,Nordeste,2,49.9
+2025-10-17,Calça Jeans,Sudeste,1,139.9
+2025-04-17,Jaqueta,Centro-Oeste,2,299.9
+2025-06-18,Calça Jeans,Sudeste,5,139.9
+2025-05-22,Camiseta,Sudeste,2,49.9
+2025-05-09,Jaqueta,Sudeste,1,299.9
+2025-01-14,Meia,Sudeste,1,14.9
+2025-05-02,Tênis,Centro-Oeste,3,249.9
+2025-03-31,Camiseta,Nordeste,1,49.9
+2025-08-04,Calça Jeans,,1,139.9
+2025-02-02,Meia,Norte,4,14.9
+2025-09-20,Tênis,Centro-Oeste,1,249.9
+2025-09-15,Boné,Sudeste,5,39.9
+2025-12-04,Camiseta,Centro-Oeste,3,49.9
+2025-11-26,Boné,Sul,1,39.9
+2025-07-25,Boné,Norte,1,39.9
+2025-12-31,Boné,Norte,1,39.9
+2025-06-14,Camiseta,Centro-Oeste,2,49.9
+2025-03-06,Camiseta,Nordeste,5,49.9
+2025-10-27,Meia,Centro-Oeste,3,14.9
+2025-11-02,Boné,Centro-Oeste,3,39.9
+2025-09-16,Boné,Centro-Oeste,4,39.9
+2025-12-26,Camiseta,Sul,5,49.9
+2025-04-21,Meia,Norte,4,14.9
+2025-07-31,Calça Jeans,Nordeste,4,139.9
+2025-08-01,Boné,Sul,3,39.9
+2025-06-10,Boné,Nordeste,3,39.9
+2025-12-18,Calça Jeans,Norte,1,139.9
+2025-02-13,Camiseta,Sul,4,49.9
+2025-07-10,Camiseta,Sudeste,5,49.9
+2025-10-28,Camiseta,Centro-Oeste,5,49.9
+2025-12-10,Tênis,Sul,4,249.9
+2025-12-07,Tênis,,1,249.9
+2025-11-04,Tênis,Nordeste,3,249.9
+2025-10-23,Camiseta,Centro-Oeste,2,49.9
+2025-12-03,Calça Jeans,Norte,2,139.9
+2025-06-29,Camiseta,Centro-Oeste,3,49.9
+2025-05-23,Camiseta,Centro-Oeste,2,49.9
+2025-10-15,Boné,Centro-Oeste,5,39.9
+2025-11-26,Meia,Centro-Oeste,1,14.9
+2025-12-03,Jaqueta,Nordeste,1,299.9
+2025-05-20,Calça Jeans,Nordeste,3,139.9
+2025-01-04,Tênis,Sudeste,2,249.9
+2025-12-03,Jaqueta,Norte,1,299.9
+2025-11-21,Calça Jeans,Sul,1,139.9
+2025-09-29,Meia,Sudeste,4,14.9
+2025-08-21,Boné,Nordeste,2,39.9
+2025-06-09,Tênis,Nordeste,5,249.9
+2025-02-13,Jaqueta,Sul,2,299.9
+2025-11-13,Calça Jeans,Sul,1,139.9
+2025-08-15,Tênis,Norte,4,249.9
+2025-08-15,Jaqueta,Norte,3,299.9
+2025-09-20,Calça Jeans,Sul,3,139.9
+2025-02-26,Boné,Nordeste,5,39.9
+2025-09-27,Boné,Nordeste,1,39.9
+2025-07-22,Calça Jeans,Centro-Oeste,1,139.9
+2025-04-15,Camiseta,Nordeste,2,49.9
+2025-05-11,Calça Jeans,Nordeste,3,139.9
+2025-01-04,Camiseta,Norte,4,49.9
+2025-03-08,Calça Jeans,Norte,5,139.9
+2025-04-28,Meia,Centro-Oeste,5,14.9
+2025-07-01,Meia,Sul,4,14.9
+2025-01-22,Meia,Norte,1,14.9
+2025-02-09,Boné,Nordeste,5,39.9
+2025-10-21,Boné,Norte,4,39.9
+2025-02-28,Tênis,Norte,1,249.9
+2025-03-29,Tênis,Centro-Oeste,4,249.9
+2025-07-05,Meia,Sul,4,14.9
+2025-05-05,Camiseta,Norte,5,49.9
+2025-09-26,Boné,Sul,4,39.9
+2025-06-23,Tênis,Sudeste,3,249.9
+2025-02-09,Calça Jeans,Centro-Oeste,1,139.9
+2025-09-19,Jaqueta,Sudeste,3,299.9
+2025-11-27,Tênis,Sudeste,2,249.9
+2025-03-16,Camiseta,Nordeste,2,49.9
+2025-11-05,Calça Jeans,Sudeste,1,139.9
+2025-11-18,Calça Jeans,Norte,4,139.9
+2025-10-24,Jaqueta,Norte,5,299.9
+2025-11-22,Meia,Centro-Oeste,3,14.9
+2025-06-11,Meia,Sudeste,4,14.9
+2025-08-29,Camiseta,Norte,3,49.9
+2025-10-30,Tênis,Sul,3,249.9
+2025-02-07,Jaqueta,Nordeste,4,299.9
+2025-01-20,Boné,Sul,3,39.9
+2025-02-09,Tênis,Sul,5,249.9
+2025-09-17,Jaqueta,Norte,4,299.9
+2025-10-11,Jaqueta,Sul,4,299.9
+2025-11-30,Jaqueta,Sudeste,3,299.9
+2025-09-01,Jaqueta,Centro-Oeste,2,299.9
+2025-08-19,Camiseta,Sul,3,49.9
+2025-02-13,Meia,Centro-Oeste,2,14.9
+2025-05-07,Camiseta,Norte,4,49.9
+2025-09-25,Jaqueta,Centro-Oeste,2,299.9
+2025-07-10,Tênis,Nordeste,4,249.9
+2025-06-23,Boné,Centro-Oeste,1,39.9
+2025-11-28,Meia,Nordeste,1,14.9
+2025-02-18,Tênis,Centro-Oeste,4,249.9
+2025-05-10,Tênis,Centro-Oeste,2,249.9
+2025-02-11,Tênis,Centro-Oeste,2,249.9
+2025-06-08,Tênis,Norte,2,249.9
+2025-12-29,Jaqueta,Sul,3,299.9
+2025-07-12,Jaqueta,Nordeste,2,299.9
+2025-12-26,Meia,Centro-Oeste,1,14.9
+2025-12-10,Meia,Norte,5,14.9
+2025-01-10,Tênis,Nordeste,3,249.9
+2025-04-20,Calça Jeans,Nordeste,4,139.9
+2025-04-26,Calça Jeans,Sudeste,2,139.9
+2025-06-01,Camiseta,Sul,5,49.9
+2025-09-27,Jaqueta,Sul,3,299.9
+2025-03-09,Jaqueta,Centro-Oeste,4,299.9
+2025-03-25,Calça Jeans,,5,139.9
+2025-08-13,Calça Jeans,Sul,4,139.9
+2025-12-13,Tênis,Sudeste,4,249.9
+2025-05-26,Jaqueta,Norte,2,299.9
+2025-05-03,Jaqueta,Nordeste,4,299.9
+2025-07-08,Calça Jeans,Centro-Oeste,4,139.9
+2025-05-25,Boné,,5,39.9
+2025-08-03,Jaqueta,Sudeste,2,299.9
+2025-03-12,Jaqueta,Nordeste,1,299.9
+2025-09-04,Meia,Nordeste,5,14.9
+2025-12-31,Camiseta,Centro-Oeste,1,49.9
+2025-02-12,Tênis,Sudeste,3,249.9
+2025-09-20,Boné,Sudeste,4,39.9
+2025-04-24,Camiseta,Norte,3,49.9
+2025-08-01,Camiseta,Sul,4,49.9
+2025-07-11,Jaqueta,Sudeste,4,299.9
+2025-07-11,Camiseta,Sudeste,1,49.9
+2025-02-20,Tênis,Nordeste,2,249.9
+2025-01-20,Calça Jeans,Nordeste,4,139.9
+2025-03-13,Meia,Norte,4,14.9
+2025-01-03,Jaqueta,Sul,1,299.9
+2025-04-21,Tênis,Sudeste,5,249.9
+2025-11-08,Meia,Centro-Oeste,4,14.9
+2025-05-28,Camiseta,Sudeste,3,49.9
+2025-01-25,Camiseta,Sudeste,4,49.9
+2025-11-15,Meia,Norte,1,14.9
+2025-09-13,Camiseta,Centro-Oeste,5,49.9
+2025-11-20,Camiseta,Centro-Oeste,5,49.9
+2025-03-15,Calça Jeans,Nordeste,4,139.9
+2025-11-11,Camiseta,Nordeste,2,49.9
+2025-08-02,Jaqueta,Sudeste,1,299.9
+2025-07-04,Jaqueta,Sul,5,299.9
+2025-09-17,Jaqueta,Centro-Oeste,5,299.9
+2025-07-19,Camiseta,Norte,1,49.9
+2025-07-18,Meia,Nordeste,3,14.9
+2025-01-09,Meia,Nordeste,1,14.9
+2025-05-04,Tênis,Sul,5,249.9
+2025-06-20,Meia,Sudeste,1,14.9
+2025-10-07,Tênis,Nordeste,2,249.9
+2025-08-26,Meia,Norte,2,14.9
+2025-02-02,Calça Jeans,Norte,1,139.9
+2025-04-14,Tênis,Sul,2,249.9
+2025-06-11,Camiseta,Nordeste,5,49.9
+2025-10-06,Boné,Norte,3,39.9
+2025-11-28,Camiseta,Sudeste,3,49.9
+2025-01-25,Tênis,Nordeste,3,249.9
+2025-07-08,Camiseta,Norte,4,49.9
+2025-08-14,Meia,Norte,3,14.9
+2025-09-12,Calça Jeans,Norte,3,139.9
+2025-05-17,Jaqueta,Sul,4,299.9
+2025-08-09,Camiseta,Centro-Oeste,2,49.9
+2025-05-31,Jaqueta,Nordeste,1,299.9
+2025-06-17,Camiseta,Nordeste,3,49.9
+2025-11-05,Boné,Norte,2,39.9
+2025-08-16,Meia,Nordeste,4,14.9
+2025-06-30,Camiseta,Centro-Oeste,4,49.9
+2025-11-24,Tênis,Sul,1,249.9
+2025-11-23,Meia,Norte,3,14.9
+2025-12-14,Jaqueta,Sudeste,1,299.9
+2025-11-08,Calça Jeans,Norte,1,139.9
+2025-02-04,Calça Jeans,Sudeste,3,139.9
+2025-07-16,Tênis,,1,249.9
+2025-03-20,Jaqueta,Norte,3,299.9
+2025-08-16,Tênis,Sul,5,249.9
+2025-09-29,Calça Jeans,Nordeste,4,139.9
+2025-11-29,Tênis,Nordeste,2,249.9
+2025-01-14,Camiseta,Sudeste,4,49.9
+2025-07-18,Jaqueta,Centro-Oeste,1,299.9
+2025-05-14,Tênis,Norte,2,249.9
+2025-05-27,Jaqueta,Norte,2,299.9
+2025-03-11,Camiseta,Sul,4,49.9
+2025-08-16,Calça Jeans,Sul,3,139.9
+2025-06-27,Meia,Sul,5,14.9
+2025-05-29,Jaqueta,Nordeste,2,299.9
+2025-12-30,Meia,Sudeste,3,14.9
+2025-04-25,Jaqueta,Sul,2,299.9
+2025-05-02,Calça Jeans,Norte,1,139.9
+2025-10-11,Tênis,Centro-Oeste,3,249.9
+2025-10-10,Boné,Sudeste,5,39.9
+2025-02-03,Camiseta,Nordeste,4,49.9
+2025-09-03,Meia,Centro-Oeste,4,14.9
+2025-10-22,Boné,Sul,2,39.9
+2025-11-25,Tênis,Sul,4,249.9
+2025-12-15,Boné,Centro-Oeste,3,39.9
+2025-10-10,Calça Jeans,Centro-Oeste,2,139.9
+2025-08-10,Calça Jeans,Centro-Oeste,1,139.9
+2025-09-23,Camiseta,Sudeste,3,49.9
+2025-03-24,Calça Jeans,Nordeste,2,139.9
+2025-09-23,Tênis,Nordeste,1,249.9
+2025-04-11,Tênis,Centro-Oeste,3,249.9
+2025-11-17,Calça Jeans,Nordeste,5,139.9
+2025-02-17,Jaqueta,Centro-Oeste,2,299.9
+2025-10-25,Jaqueta,Sudeste,2,299.9
+2025-11-16,Meia,Centro-Oeste,3,14.9
+2025-01-22,Jaqueta,Sul,1,299.9
+2025-11-25,Camiseta,Centro-Oeste,3,49.9
+2025-04-18,Meia,Centro-Oeste,4,14.9
+2025-11-24,Jaqueta,Sul,4,299.9
+2025-10-07,Meia,Nordeste,3,14.9
+2025-05-06,Boné,Norte,3,39.9
+2025-02-07,Boné,Sul,2,39.9
+2025-08-01,Boné,Norte,4,39.9
+2025-06-24,Calça Jeans,Centro-Oeste,2,139.9
+2025-06-13,Tênis,Nordeste,4,249.9
+2025-07-09,Calça Jeans,Centro-Oeste,5,139.9
+2025-06-13,Camiseta,Sudeste,4,49.9
+2025-05-17,Camiseta,Norte,2,49.9
+2025-02-19,Calça Jeans,Sul,3,139.9
+2025-11-12,Boné,Norte,2,39.9
+2025-06-17,Calça Jeans,Centro-Oeste,3,139.9
+2025-03-23,Calça Jeans,Norte,5,139.9
+2025-09-13,Boné,Nordeste,4,39.9
+2025-02-16,Camiseta,Norte,5,49.9
+2025-05-04,Boné,Sudeste,5,39.9
+2025-01-25,Tênis,Sul,3,249.9
+2025-11-02,Boné,Norte,3,39.9
+2025-01-05,Jaqueta,Sul,4,299.9
+2025-05-16,Calça Jeans,Nordeste,4,139.9
+2025-01-24,Tênis,Norte,1,249.9
+2025-10-15,Jaqueta,Sudeste,3,299.9
+2025-05-28,Jaqueta,Sul,4,299.9
+2025-08-19,Jaqueta,Centro-Oeste,3,299.9
+2025-12-15,Jaqueta,Centro-Oeste,1,299.9
+2025-02-19,Calça Jeans,Norte,3,139.9
+2025-10-13,Tênis,Nordeste,2,249.9
+2025-11-05,Calça Jeans,Centro-Oeste,4,139.9
+2025-01-21,Jaqueta,Sul,1,299.9
+2025-06-20,Calça Jeans,Norte,5,139.9
+2025-03-18,Boné,Centro-Oeste,5,39.9
+2025-06-17,Calça Jeans,Centro-Oeste,3,139.9
+2025-07-21,Calça Jeans,Centro-Oeste,3,139.9
+2025-06-22,Jaqueta,Centro-Oeste,5,299.9
+2025-09-08,Jaqueta,Centro-Oeste,3,299.9
+2025-01-09,Boné,Nordeste,3,39.9
+2025-02-26,Meia,Norte,5,14.9
+2025-12-19,Tênis,Sul,5,249.9
+2025-05-16,Boné,Centro-Oeste,5,39.9
+2025-01-27,Calça Jeans,Centro-Oeste,4,139.9
+2025-09-26,Calça Jeans,Centro-Oeste,4,139.9
+2025-12-15,Calça Jeans,Sudeste,1,139.9
+2025-12-25,Jaqueta,Sul,2,299.9
+2025-08-14,Camiseta,Nordeste,4,49.9
+2025-07-31,Calça Jeans,Sudeste,4,139.9
+2025-11-10,Jaqueta,Norte,1,299.9
+2025-03-12,Meia,Centro-Oeste,2,14.9
+2025-06-16,Jaqueta,Norte,5,299.9
+2025-06-10,Boné,Sudeste,4,39.9
+2025-06-25,Jaqueta,Centro-Oeste,3,299.9
+2025-12-15,Meia,Nordeste,5,14.9
+2025-04-09,Boné,Sudeste,3,39.9
+2025-06-02,Jaqueta,Sudeste,3,299.9
+2025-12-27,Tênis,Sudeste,4,249.9
+2025-09-03,Tênis,Nordeste,5,249.9
+2025-05-21,Meia,Nordeste,1,14.9
+2025-12-13,Jaqueta,Centro-Oeste,4,299.9
+2025-06-26,Boné,Sudeste,3,39.9
+2025-05-28,Camiseta,Sul,3,49.9
+2025-12-02,Boné,Nordeste,4,39.9
+2025-04-14,Calça Jeans,Centro-Oeste,3,139.9
+2025-12-23,Jaqueta,Nordeste,2,299.9
+2025-11-12,Camiseta,Centro-Oeste,2,49.9
+2025-01-26,Calça Jeans,Centro-Oeste,2,139.9
+2025-04-30,Meia,Sul,1,14.9
+2025-06-19,Boné,Norte,1,39.9
+2025-03-12,Meia,Sul,5,14.9
+2025-07-28,Calça Jeans,Norte,4,139.9
+2025-04-13,Meia,Nordeste,3,14.9
+2025-11-27,Tênis,Sul,1,249.9
+2025-10-21,Meia,Sudeste,5,14.9
+2025-01-20,Meia,Sudeste,4,14.9
+2025-01-19,Calça Jeans,Norte,4,139.9
+2025-05-29,Calça Jeans,Sul,1,139.9
+2025-10-18,Tênis,Centro-Oeste,1,249.9
+2025-05-26,Tênis,Norte,5,249.9
+2025-09-10,Jaqueta,Sudeste,5,299.9
+2025-05-20,Boné,Sudeste,1,39.9
+2025-03-25,Tênis,Norte,3,249.9
+2025-04-06,Meia,Sul,3,14.9
+2025-10-18,Tênis,Sudeste,2,249.9
+2025-11-24,Jaqueta,Norte,4,299.9
+2025-06-17,Jaqueta,Sul,4,299.9
+2025-02-18,Meia,Sudeste,2,14.9
+2025-06-15,Boné,Sudeste,1,39.9
+2025-07-16,Tênis,Sudeste,4,249.9
+2025-06-18,Tênis,Nordeste,5,249.9
+2025-10-21,Meia,Sul,3,14.9
+2025-07-04,Meia,Sudeste,1,14.9
+2025-03-02,Meia,Norte,3,14.9
+2025-07-27,Calça Jeans,Centro-Oeste,3,139.9
+2025-03-02,Meia,Nordeste,3,14.9
+2025-04-24,Jaqueta,Sudeste,2,299.9
+2025-03-20,Boné,Norte,5,39.9
+2025-08-01,Tênis,Centro-Oeste,4,249.9
+2025-12-07,Jaqueta,Sudeste,2,299.9
+2025-11-02,Meia,Sul,5,14.9
+2025-09-28,Boné,Nordeste,1,39.9
+2025-02-27,Jaqueta,Sul,5,299.9
+2025-04-14,Jaqueta,Centro-Oeste,5,299.9
+2025-03-26,Calça Jeans,Nordeste,5,139.9
+2025-03-01,Boné,Sudeste,5,39.9
+2025-02-16,Boné,Centro-Oeste,4,39.9
+2025-08-21,Camiseta,Sudeste,5,49.9
+2025-08-22,Boné,Centro-Oeste,1,39.9
+2025-08-25,Jaqueta,Nordeste,1,299.9
+2025-05-11,Boné,Sul,2,39.9
+2025-02-07,Jaqueta,Sul,4,299.9
+2025-12-25,Tênis,Sul,5,249.9
+2025-02-05,Camiseta,Norte,1,49.9
+2025-07-29,Tênis,Sudeste,2,249.9
+2025-11-27,Meia,Norte,3,14.9
+2025-08-18,Boné,Norte,4,39.9
+2025-12-16,Camiseta,Centro-Oeste,2,49.9
+2025-06-28,Meia,Sul,2,14.9
+2025-07-21,Jaqueta,Centro-Oeste,2,299.9
+2025-04-25,Meia,Sul,1,14.9
+2025-08-26,Tênis,Centro-Oeste,4,249.9
+2025-07-14,Jaqueta,Sudeste,2,299.9
+2025-06-27,Boné,Sudeste,3,39.9
+2025-02-27,Calça Jeans,Sul,4,139.9
+2025-01-09,Jaqueta,Sudeste,2,299.9
+2025-02-21,Camiseta,Centro-Oeste,1,49.9
+2025-11-03,Boné,Sul,2,39.9
+2025-01-23,Meia,Norte,4,14.9
+2025-10-04,Calça Jeans,Sudeste,1,139.9
+2025-09-15,Calça Jeans,Nordeste,2,139.9
+2025-10-22,Meia,Nordeste,5,14.9
+2025-12-11,Jaqueta,Nordeste,2,299.9
+2025-03-15,Tênis,Centro-Oeste,2,249.9
+2025-06-03,Boné,Nordeste,1,39.9
+2025-10-30,Jaqueta,Sudeste,4,299.9
+2025-09-11,Jaqueta,Sul,3,299.9
+2025-12-10,Meia,Norte,5,14.9
+2025-12-23,Tênis,Norte,4,249.9
+2025-06-03,Calça Jeans,Norte,2,139.9
+2025-08-31,Jaqueta,Sudeste,2,299.9
+2025-12-29,Tênis,Sudeste,4,249.9
+2025-10-15,Camiseta,Norte,4,49.9
+2025-09-29,Jaqueta,Sudeste,4,299.9
+2025-05-11,Calça Jeans,Sudeste,3,139.9
+2025-02-10,Meia,Norte,3,14.9
+2025-10-02,Camiseta,Sudeste,1,49.9
+2025-07-13,Tênis,Centro-Oeste,5,249.9
+2025-02-07,Camiseta,Sudeste,5,49.9
+2025-12-10,Meia,Centro-Oeste,2,14.9
+2025-04-17,Boné,Nordeste,3,39.9
+2025-04-19,Camiseta,Sudeste,1,49.9
+2025-09-03,Meia,Sudeste,5,14.9
+2025-04-15,Meia,Norte,2,14.9
+2025-06-14,Jaqueta,Nordeste,4,299.9
+2025-10-01,Boné,Nordeste,3,39.9
+2025-07-04,Tênis,Centro-Oeste,4,249.9
+2025-02-20,Boné,Norte,3,39.9
+2025-07-09,Calça Jeans,Nordeste,4,139.9
+2025-10-16,Camiseta,Sudeste,2,49.9
+2025-05-14,Camiseta,Centro-Oeste,5,49.9
+2025-08-02,Jaqueta,Nordeste,2,299.9
+2025-06-18,Calça Jeans,Sudeste,4,139.9
+2025-05-06,Jaqueta,Norte,5,299.9
+2025-12-17,Meia,Nordeste,3,14.9
+2025-11-25,Boné,Norte,4,39.9
+2025-06-30,Calça Jeans,Sudeste,2,139.9
+2025-10-07,Meia,Norte,2,14.9
+2025-11-25,Jaqueta,Sul,5,299.9
+2025-02-08,Camiseta,Sul,1,49.9
+2025-03-12,Boné,Sudeste,1,39.9
+2025-03-19,Meia,Sul,2,14.9
+2025-08-22,Jaqueta,Nordeste,1,299.9
+2025-11-23,Jaqueta,Centro-Oeste,4,299.9
+2025-09-07,Meia,Sul,1,14.9
+2025-10-10,Jaqueta,Norte,1,299.9
+2025-09-29,Camiseta,Nordeste,5,49.9
+2025-01-09,Tênis,Centro-Oeste,4,249.9
+2025-02-24,Calça Jeans,Sul,5,139.9
+2025-05-04,Calça Jeans,Sudeste,5,139.9
+2025-05-10,Jaqueta,Nordeste,3,299.9
+2025-02-10,Boné,Nordeste,4,39.9
+2025-10-17,Boné,Sudeste,2,39.9
+2025-12-17,Tênis,Sul,1,249.9
+2025-07-27,Camiseta,Norte,4,49.9
+2025-09-01,Jaqueta,Sul,1,299.9
+2025-03-29,Meia,Sul,4,14.9
+2025-11-27,Boné,Nordeste,5,39.9
+2025-09-28,Camiseta,Sul,2,49.9
+2025-12-21,Calça Jeans,Centro-Oeste,4,139.9
+2025-01-24,Tênis,Sul,3,249.9
+2025-10-16,Jaqueta,Sul,2,299.9
+2025-01-09,Tênis,Sudeste,5,249.9
+2025-12-31,Calça Jeans,Norte,1,139.9
+2025-03-25,Tênis,Centro-Oeste,2,249.9
+2025-07-19,Jaqueta,Centro-Oeste,3,299.9
+2025-03-13,Boné,Sul,5,39.9
+2025-06-27,Meia,Sul,1,14.9
+2025-04-29,Boné,Sul,3,39.9
+2025-11-11,Jaqueta,Centro-Oeste,4,299.9
+2025-01-16,Tênis,Nordeste,4,249.9
+2025-04-27,Boné,Nordeste,5,39.9
+2025-08-10,Boné,Sudeste,5,39.9
+2025-07-14,Meia,Sul,5,14.9
+2025-05-07,Tênis,Sul,1,249.9
+2025-03-20,Tênis,Norte,2,249.9
+2025-07-19,Meia,Nordeste,3,14.9
+2025-02-16,Camiseta,Sul,3,49.9
+2025-07-04,Boné,Nordeste,1,39.9
+2025-02-14,Calça Jeans,Sudeste,4,139.9
+2025-10-13,Boné,Centro-Oeste,5,39.9
+2025-02-22,Boné,Sul,1,39.9
+2025-10-11,Tênis,Sul,5,249.9
+2025-06-16,Jaqueta,Norte,1,299.9
+2025-07-31,Tênis,Norte,1,249.9
+2025-10-14,Meia,Sudeste,5,14.9
+2025-03-28,Jaqueta,Norte,2,299.9
+2025-05-18,Calça Jeans,Nordeste,3,139.9
+2025-03-16,Boné,Sul,2,39.9
+2025-05-22,Boné,Norte,3,39.9
+2025-02-09,Boné,Nordeste,3,39.9
+2025-11-17,Calça Jeans,Norte,5,139.9
+2025-04-11,Jaqueta,Norte,1,299.9
+2025-06-05,Calça Jeans,Sul,4,139.9
+2025-11-14,Tênis,Norte,3,249.9
+2025-06-21,Boné,Norte,5,39.9
+2025-06-03,Calça Jeans,Nordeste,5,139.9
+2025-04-13,Meia,Norte,3,14.9
+2025-07-23,Calça Jeans,Nordeste,3,139.9
+2025-12-22,Meia,Norte,5,14.9
+2025-06-16,Calça Jeans,Norte,3,139.9
+2025-07-06,Boné,Sul,5,39.9
+2025-10-31,Calça Jeans,Centro-Oeste,2,139.9
+2025-10-09,Meia,Sul,4,14.9
+2025-04-18,Meia,Norte,3,14.9
+2025-02-05,Meia,Norte,4,14.9
+2025-11-21,Calça Jeans,Nordeste,2,139.9
+2025-12-04,Tênis,Sudeste,4,249.9
+2025-02-07,Boné,Norte,5,39.9
+2025-10-26,Boné,Norte,5,39.9
+2025-12-21,Jaqueta,Norte,5,299.9
+2025-07-04,Camiseta,Centro-Oeste,5,49.9
+2025-02-13,Meia,Sul,2,14.9
+2025-12-07,Meia,Nordeste,2,14.9
+2025-11-10,Meia,Sul,5,14.9
+2025-12-13,Meia,Norte,3,14.9
+2025-02-24,Boné,Sul,1,39.9
+2025-04-24,Tênis,Centro-Oeste,5,249.9
+2025-10-25,Jaqueta,Centro-Oeste,2,299.9
+2025-07-11,Boné,Norte,4,39.9
+2025-10-29,Meia,Centro-Oeste,2,14.9
+2025-01-13,Tênis,Norte,1,249.9
+2025-08-01,Tênis,Sul,1,249.9
+2025-03-14,Meia,Nordeste,3,14.9
+2025-08-22,Tênis,Sudeste,5,249.9
+2025-06-28,Boné,Norte,1,39.9
+2025-12-23,Boné,Norte,3,39.9
+2025-06-03,Camiseta,Sul,1,49.9
+2025-06-25,Camiseta,Sul,2,49.9
+2025-05-05,Meia,Centro-Oeste,2,14.9
+2025-03-23,Jaqueta,Nordeste,5,299.9
+2025-08-25,Boné,Sudeste,4,39.9
+2025-04-05,Meia,Sudeste,4,14.9
+2025-01-15,Boné,Centro-Oeste,2,39.9
+2025-10-31,Boné,Norte,4,39.9
+2025-12-27,Camiseta,Sudeste,2,49.9
+2025-12-27,Tênis,Sul,5,249.9
+2025-10-02,Camiseta,Sudeste,3,49.9
+2025-04-11,Tênis,Norte,1,249.9
+2025-12-10,Tênis,Norte,5,249.9
+2025-06-10,Meia,,4,14.9
+2025-07-20,Jaqueta,Centro-Oeste,1,299.9
+2025-06-30,Tênis,Norte,5,249.9
+2025-12-11,Calça Jeans,Nordeste,5,139.9
+2025-02-13,Jaqueta,Sudeste,3,299.9
+2025-05-03,Camiseta,Nordeste,1,49.9
+2025-07-11,Calça Jeans,Sudeste,5,139.9
+2025-08-03,Boné,Centro-Oeste,2,39.9
+2025-07-16,Jaqueta,,2,299.9
+2025-11-22,Boné,Centro-Oeste,2,39.9
+2025-03-27,Jaqueta,Norte,3,299.9
+2025-04-06,Calça Jeans,Nordeste,4,139.9
+2025-01-28,Jaqueta,Nordeste,1,299.9
+2025-03-11,Boné,Sudeste,4,39.9
+2025-09-16,Jaqueta,Norte,4,299.9
+2025-09-09,Meia,Norte,4,14.9
+2025-03-27,Boné,Sul,5,39.9
+2025-04-23,Camiseta,Nordeste,1,49.9
+2025-04-26,Tênis,Centro-Oeste,3,249.9
+2025-08-23,Calça Jeans,Centro-Oeste,4,139.9
+2025-09-19,Jaqueta,Sul,5,299.9
+2025-05-18,Camiseta,Centro-Oeste,3,49.9
+2025-01-22,Jaqueta,Norte,5,299.9
+2025-08-06,Calça Jeans,Sul,2,139.9
+2025-01-17,Tênis,Norte,3,249.9
+2025-02-14,Tênis,Norte,1,249.9
+2025-04-18,Calça Jeans,Centro-Oeste,3,139.9
+2025-11-09,Meia,Norte,2,14.9
+2025-03-13,Jaqueta,Sudeste,2,299.9
+2025-10-19,Camiseta,Nordeste,5,49.9
+2025-11-02,Tênis,Centro-Oeste,2,249.9
+2025-12-27,Tênis,Nordeste,3,249.9
+2025-05-17,Jaqueta,Centro-Oeste,1,299.9
+2025-07-30,Calça Jeans,Sul,3,139.9
+2025-03-06,Meia,Sudeste,2,14.9
+2025-12-31,Calça Jeans,Nordeste,2,139.9
+2025-07-21,Meia,Norte,2,14.9
+2025-11-20,Jaqueta,Nordeste,4,299.9
+2025-08-20,Boné,Sul,1,39.9
+2025-09-21,Boné,Nordeste,3,39.9
+2025-09-07,Boné,Nordeste,5,39.9
+2025-02-17,Camiseta,Norte,3,49.9
+2025-10-01,Camiseta,Norte,2,49.9
+2025-04-19,Boné,Norte,3,39.9
+2025-05-26,Tênis,Nordeste,5,249.9
+2025-03-08,Jaqueta,Centro-Oeste,4,299.9
+2025-12-16,Tênis,Sul,1,249.9
+2025-11-17,Camiseta,Norte,1,49.9
+2025-03-22,Camiseta,Norte,4,49.9
+2025-08-08,Camiseta,Sudeste,2,49.9
+2025-06-04,Meia,Sudeste,3,14.9
+2025-12-02,Camiseta,Nordeste,3,49.9
+2025-07-10,Camiseta,Sudeste,1,49.9
+2025-11-17,Boné,Nordeste,2,39.9
+2025-12-02,Boné,Sul,1,39.9
+2025-04-20,Camiseta,Norte,1,49.9
+2025-10-31,Calça Jeans,Sudeste,5,139.9
+2025-08-16,Meia,Sul,1,14.9
+2025-06-25,Meia,Sul,4,14.9
+2025-03-09,Meia,Norte,1,14.9
+2025-07-16,Calça Jeans,Sul,1,139.9
+2025-06-10,Camiseta,Nordeste,3,49.9
+2025-07-15,Calça Jeans,Sudeste,2,139.9
+2025-09-29,Camiseta,Centro-Oeste,1,49.9
+2025-11-29,Jaqueta,Sudeste,4,299.9
+2025-04-20,Tênis,Sudeste,4,249.9
+2025-12-18,Jaqueta,Norte,2,299.9
+2025-02-21,Camiseta,Sudeste,1,49.9
+2025-07-16,Jaqueta,Nordeste,4,299.9
+2025-03-13,Tênis,Sudeste,3,249.9
+2025-02-13,Meia,Sudeste,5,14.9
+2025-11-04,Jaqueta,Centro-Oeste,3,299.9
+2025-01-14,Meia,Nordeste,2,14.9
+2025-11-07,Jaqueta,Centro-Oeste,2,299.9
+2025-07-20,Meia,Nordeste,1,14.9
+2025-09-11,Calça Jeans,Norte,1,139.9
+2025-09-13,Calça Jeans,Centro-Oeste,1,139.9
+2025-01-07,Jaqueta,Nordeste,3,299.9
+2025-07-18,Calça Jeans,Centro-Oeste,4,139.9
+2025-10-07,Tênis,Sudeste,4,249.9
+2025-01-09,Camiseta,Centro-Oeste,1,49.9
+2025-05-15,Camiseta,Sudeste,1,49.9
+2025-07-23,Camiseta,Centro-Oeste,3,49.9
+2025-12-31,Meia,Centro-Oeste,4,14.9
+2025-12-26,Boné,Norte,1,39.9
+2025-10-02,Meia,Centro-Oeste,5,14.9
+2025-05-23,Calça Jeans,Sul,3,139.9
+2025-09-19,Camiseta,Sudeste,2,49.9
+2025-06-17,Jaqueta,Norte,5,299.9
+2025-11-29,Meia,Sul,3,14.9
+2025-08-12,Meia,Sudeste,1,14.9
+2025-02-14,Calça Jeans,Norte,1,139.9
+2025-11-10,Boné,Centro-Oeste,1,39.9
+2025-12-08,Tênis,Sudeste,1,249.9
+2025-12-29,Camiseta,Sudeste,1,49.9
+2025-09-12,Calça Jeans,Nordeste,5,139.9
+2025-05-13,Jaqueta,Sudeste,3,299.9
+2025-05-18,Calça Jeans,Sul,1,139.9
+2025-08-08,Tênis,Nordeste,5,249.9
+2025-05-15,Camiseta,Centro-Oeste,1,49.9
+2025-08-22,Boné,Centro-Oeste,3,39.9
+2025-09-13,Camiseta,Centro-Oeste,2,49.9
+2025-03-22,Tênis,Nordeste,1,249.9
+2025-12-12,Jaqueta,Sul,2,299.9
+2025-09-18,Meia,Sul,1,14.9
+2025-05-06,Camiseta,Sul,4,49.9
+2025-07-16,Tênis,Sudeste,2,249.9
+2025-10-11,Camiseta,Norte,2,49.9
+2025-05-08,Tênis,Norte,3,249.9
+2025-02-09,Tênis,Centro-Oeste,3,249.9
+2025-09-15,Camiseta,Sul,2,49.9
+2025-09-22,Calça Jeans,Sul,4,139.9
+2025-08-27,Camiseta,Nordeste,3,49.9
+2025-02-14,Tênis,Centro-Oeste,4,249.9
+2025-07-08,Camiseta,Sudeste,3,49.9
+2025-06-05,Jaqueta,Centro-Oeste,2,299.9
+2025-07-08,Boné,Centro-Oeste,4,39.9
+2025-10-07,Calça Jeans,Sudeste,2,139.9
+2025-07-29,Camiseta,Sul,2,49.9
+2025-06-27,Jaqueta,,3,299.9
+2025-12-03,Camiseta,Norte,3,49.9
+2025-04-16,Camiseta,Centro-Oeste,2,49.9
+2025-09-09,Boné,Sul,2,39.9
+2025-05-24,Meia,Sul,1,14.9
+2025-09-24,Calça Jeans,Norte,3,139.9
+2025-02-13,Boné,Centro-Oeste,1,39.9
+2025-03-10,Jaqueta,Norte,1,299.9
+2025-10-18,Jaqueta,Sul,4,299.9
+2025-03-08,Meia,Sudeste,3,14.9
+2025-06-11,Tênis,Norte,3,249.9
+2025-08-20,Tênis,Nordeste,2,249.9
+2025-04-14,Camiseta,Sudeste,5,49.9
+2025-03-21,Camiseta,Sul,2,49.9
+2025-08-27,Boné,Nordeste,4,39.9
+2025-10-02,Camiseta,Nordeste,2,49.9
+2025-06-07,Boné,Norte,3,39.9
+2025-02-16,Camiseta,Sudeste,3,49.9
+2025-12-23,Meia,Centro-Oeste,1,14.9
+2025-06-17,Calça Jeans,Sudeste,1,139.9
+2025-05-08,Meia,Nordeste,4,14.9
+2025-01-26,Jaqueta,Nordeste,3,299.9
+2025-01-16,Calça Jeans,Norte,4,139.9
+2025-10-09,Jaqueta,Sudeste,1,299.9
+2025-02-22,Boné,Sudeste,1,39.9
+2025-02-01,Camiseta,Sudeste,2,49.9
+2025-07-25,Calça Jeans,Nordeste,1,139.9
+2025-10-28,Jaqueta,Nordeste,1,299.9
+2025-02-03,Camiseta,Sudeste,4,49.9
+2025-02-17,Calça Jeans,Nordeste,1,139.9
+2025-08-25,Camiseta,Sul,2,49.9
+2025-08-10,Jaqueta,Norte,4,299.9
+2025-07-15,Camiseta,Norte,2,49.9
+2025-04-20,Tênis,Sudeste,3,249.9
+2025-08-17,Tênis,Sudeste,1,249.9
+2025-11-14,Jaqueta,Centro-Oeste,2,299.9
+2025-06-01,Meia,Norte,4,14.9
+2025-09-03,Jaqueta,Sul,1,299.9
+2025-07-16,Tênis,Sudeste,4,249.9
+2025-11-26,Calça Jeans,,2,139.9
+2025-10-06,Meia,Sul,4,14.9
+2025-07-03,Meia,Norte,5,14.9
+2025-06-26,Boné,,5,39.9
+2025-07-18,Tênis,Nordeste,2,249.9
+2025-06-13,Camiseta,Centro-Oeste,2,49.9
+2025-05-24,Camiseta,Sul,4,49.9
+2025-07-03,Jaqueta,Centro-Oeste,2,299.9
+2025-02-21,Calça Jeans,Sudeste,2,139.9
+2025-10-01,Tênis,Sul,2,249.9
+2025-07-18,Jaqueta,Nordeste,2,299.9
+2025-05-02,Calça Jeans,Centro-Oeste,3,139.9
+2025-12-24,Meia,Nordeste,5,14.9
+2025-12-27,Camiseta,Nordeste,5,49.9
+2025-03-14,Jaqueta,Centro-Oeste,2,299.9
+2025-10-05,Boné,Nordeste,2,39.9
+2025-01-20,Boné,Sul,1,39.9
+2025-11-05,Calça Jeans,Sudeste,1,139.9
+2025-09-02,Jaqueta,Sul,3,299.9
+2025-04-14,Jaqueta,Sudeste,3,299.9
+2025-04-01,Meia,Nordeste,1,14.9
+2025-03-17,Camiseta,Centro-Oeste,2,49.9
+2025-09-27,Camiseta,Nordeste,1,49.9
+2025-12-27,Tênis,Norte,5,249.9
+2025-06-22,Camiseta,Nordeste,3,49.9
+2025-03-22,Calça Jeans,Norte,4,139.9
+2025-06-12,Meia,Sudeste,5,14.9
+2025-11-11,Meia,Nordeste,2,14.9
+2025-10-29,Meia,Sudeste,4,14.9
+2025-12-19,Tênis,Nordeste,2,249.9
+2025-01-01,Calça Jeans,Centro-Oeste,4,139.9
+2025-01-17,Jaqueta,Sudeste,5,299.9
+2025-08-11,Tênis,Sudeste,4,249.9
+2025-03-29,Meia,Sul,4,14.9
+2025-07-21,Meia,Norte,2,14.9
+2025-05-11,Boné,Sul,4,39.9
+2025-07-08,Camiseta,Sudeste,3,49.9
+2025-06-28,Meia,Sul,2,14.9
+2025-10-15,Camiseta,Norte,4,49.9
+2025-12-27,Meia,Sul,4,14.9
+2025-02-13,Meia,Sudeste,5,14.9
+2025-06-14,Boné,Sudeste,2,39.9
